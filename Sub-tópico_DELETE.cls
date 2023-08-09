@@ -1,5 +1,5 @@
-Módulo DML
-Sub-tópico DELETE
+// Módulo DML
+// Sub-tópico DELETE
 
 
 Set<String> accountNameSet = new set<String>{
